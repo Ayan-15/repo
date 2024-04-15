@@ -1,0 +1,4 @@
+# ignore file pattern below
+*.in
+*.out
+*.pyc
